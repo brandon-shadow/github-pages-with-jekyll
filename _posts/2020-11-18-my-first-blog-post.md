@@ -1,3 +1,6 @@
-Hello World!
-title: "YOUR-TITLE is Hello World!"
+---
+title: "TITLE is Hello World!"
 date: 2020-11-18
+---
+
+Hello World!
